@@ -15,8 +15,8 @@ Big-O: O(n2)
 
 Time Complexity: 
     Average Case: 
-    Worst Case: 0((n.(n+1))/2)
-    Best Case: O(n)
+    Worst Case: ((n.(n+1))/2)
+    Best Case:
 
 
 
